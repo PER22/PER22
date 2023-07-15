@@ -5,6 +5,6 @@ Currently, I am a student at General Assembly, enjoying every lesson and project
 
 
 - 🔭 I’m currently working on improving my portfolio, resume, and interview skills.
-- 🌱 I’m currently learning at General Assembly's Software Engineering Immersive.
+- 🌱 Just graduated from General Assembly's Software Engineering Immersive.
 - 📫 How to reach me: Email me at patrick.reilly22@gmail.com.
 - 😄 Pronouns: he/him
