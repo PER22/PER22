@@ -4,7 +4,7 @@ I'm a recent graduate of UC Riverside's Bournes College of Engineering with a B.
 In June 2023 I finished the Software Engineering Immersive at General Assembly, and now I'm working as a freelancer, after interning at a small web3 startup.
 
 
-- 🔭 I’m currently working as a freelance web developer.
+- 🔭 I’m currently working as a freelance web developer, as well as learning with the Cook Systems FastTrack program.
 - ⚙️ Interned at DecOps on the backend team.
 - 🌱 Completed General Assembly's Software Engineering Immersive bootcamp, and earned a B.S. in CompSci in June 2022.
 - 📫 How to reach me: Email me at patrick.reilly22@gmail.com.
